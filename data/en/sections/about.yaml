@@ -46,9 +46,6 @@ socialLinks:
 - name: Facebook
   icon: "fab fa-facebook"
   url: "https://www.facebook.com/pritam.pritam.9699"
-- name: Sololearn
-  icon:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6EMB-HfYEqOA-Su0rF8XXamCFtBVJzBiy6w&usqp=CAU"
-  url:"https://www.sololearn.com/Profile/5509220"
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
