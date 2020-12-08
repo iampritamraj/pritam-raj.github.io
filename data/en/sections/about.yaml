@@ -8,17 +8,19 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Data Analyst
 # your company information
 company:
   name: Dashclicks India
   url: "https://dashclicks.com"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
-
+resume: "https://drive.google.com/file/d/1oRHyyXIVDBkTyML3YR46hPGCZuAqUBJL/view"
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a passionate software engineer with 1.5 years of working experience.To associate myself with an organization to prove my innovative skills and to
+work in a position where my skills and knowledge are utilized in the best
+possible way, which provides me an opportunity for growth in my
+professional career and also contribute to the growth of the organization.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

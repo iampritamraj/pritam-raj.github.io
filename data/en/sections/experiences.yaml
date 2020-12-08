@@ -11,54 +11,64 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Dashclicks 
+    url: "https://www.dashclicks.com"
+    location: Jaipur
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Dashclicks is a multinational corporation agency provide white-label solutions for companies. It offers Seo tools, agency website, instaSites and many more.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Data Analyst
+    start: Jun 2020
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Design Seo tools that provide complete seo solutions (In Progress).
+    - Design High-End Lead Generation Tools.
+    - Create various High quality Scraper like Google Search Knowledge Graph, Linkedin Scraper, Google map.
+    - Data Dump from various Lead providing companies.
+    - Creating various api's using flask that help in Lead Generation Tools
+    - Design Automation Tools using python for crwonjob and Task Automation
+    - Model Deployment on cloud(used amazon EC2) and handling nosql Database(Used MongoDB)
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+  # - designation: Junior Software Engineer
+  #   start: Nov 2017
+  #   end: Oct 2019
+  #   responsibilities:
+  #   - Implement and test xyz feature for abc tool.
+  #   - Support client for abc tool.
+  #   - Learn k,d,w technology for xyz.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Gkv group pvt. Limited.
+    url: "http://tiptopplatform.com/"
+    location: Jaipur
+    overview: First SERP Scalable Discontinuous Technology solution for all Business management and operations need which makes Business Planning and Management.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Data Engineer
+    start: February 2020
+    end: April 2020
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
+    - Design various small Scalable-web scraper (Tool used scrapy and Splash)
+    - Design Face-Recognition system and deploy it on Raspberry Pi 
+    
+  - designation: Junior Software Engineer
+    start: September 2019
+    end: February 2020
+    responsibilities:
+    - Create hotel management system for The Raj palace hotel 
+    - Create some Automation script that make daily stuff easier and after that integrate in SERP tools(developed in .net and used Ironpython for this)
+    - Fix some website css issue(https://tiptopmail.com)
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.intern.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Cetpa infotec private ltd.
+    url: "https://www.cetpainfotech.com/"
+    location: Delhi
+    overview: Training and internship institute.
   positions:
   - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+    start: May 2019
+    end: August 2019
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Machine-learning and AI Training based on real-time projects
+    - PYthon Training with various real-time projects.
+    - Various Industry visit by institute for understand corporation work-routine.

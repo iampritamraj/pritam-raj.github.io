@@ -11,15 +11,15 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  icon: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Python
+  icon: "https://www.flaticon.com/svg/static/icons/svg/919/919852.svg"
+  summary: "Python Full Stack Developer and familiar to work 100+ top  pypi modules."
+  url: "https://python.org/"
 
-- name: Go Development
-  icon: "/images/sections/skills/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+- name: Web Scrpaing
+  icon: "https://image.freepik.com/free-vector/futuristic-user-interface-concept_1284-37228.jpg"
+  summary: "Using main tools as Scrapy, BeautifulSoup, Selenium, Splash, Requets etc."
+  url: "https://scrapy.org/"
 
 - name: Cloud Computing
   icon: "/images/sections/skills/cloud.png"
@@ -30,10 +30,10 @@ skills:
   summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
   url: "https://www.docker.com/"
 
-- name: Prometheus
-  icon: "/images/sections/skills/prometheus.png"
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+- name: Flask
+  icon: "https://cdn.worldvectorlogo.com/logos/flask.svg"
+  summary: "Capable of develop General-Purpose website and api using Flask and Flask-Restful api."
+  url: "https://flask.palletsprojects.com/en/1.1.x/"
 
 - name: Linux
   icon: "/images/sections/skills/linux.png"
@@ -44,6 +44,6 @@ skills:
   summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
   url: "https://git-scm.com/"
 
-- name: C++
-  icon: "/images/sections/skills/c++.png"
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: Cyber Security and Automation
+  icon: "/images/sections/skills/hacker.svg"
+  summary: " Comfortable in socket programming and network automation. Also created threaded proxy checker & google search automation script that bypass google recaptcha."
