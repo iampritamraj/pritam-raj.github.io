@@ -32,5 +32,5 @@ curl "https://api.github.com/$CNTX/$NAME/repos?page=$PAGE&per_page=100" |
   -  Wait until its done.
 - Always remember github page max download limit at once is only **100** pages.if more Then **Increase** only ```per_page``` value on code.
   
-Done for today.we'll meet in next blog with another cool stuff.**Please comment if you  facing any kind of issue. [Thanks](https://pritam-raj.github.io)
+Done for today.we'll meet in next blog with another cool stuff.**Please** comment if you  facing any kind of issue. [Thanks](https://pritam-raj.github.io)
 
