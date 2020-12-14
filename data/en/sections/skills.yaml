@@ -13,12 +13,12 @@ section:
 skills:
 - name: Python
   icon: "https://www.flaticon.com/svg/static/icons/svg/919/919852.svg"
-  summary: "Python Full Stack Developer and familiar to work 100+ top  pypi modules."
+  summary: "Python Full Stack Developer and familiar to work with top 100+ pypi modules."
   url: "https://python.org/"
 
 - name: Web Scrpaing
   icon: "https://image.freepik.com/free-vector/futuristic-user-interface-concept_1284-37228.jpg"
-  summary: "Using main tools as Scrapy, BeautifulSoup, Selenium, Splash, Requets etc."
+  summary: "Using main tools as Scrapy, BeautifulSoup, Selenium, Splash, Requests etc."
   url: "https://scrapy.org/"
 
 - name: Cloud Computing
